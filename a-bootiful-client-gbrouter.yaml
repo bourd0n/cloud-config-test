@@ -1,0 +1,3 @@
+service:
+  message: "Hello, ${service.subMessage}"
+	subMessage: "gbrouter profile"
