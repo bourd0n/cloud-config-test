@@ -1,2 +1,2 @@
 service:
-	message: "Hello, default profile"
+  message: "Hello, default profile"
